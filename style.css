@@ -85,7 +85,12 @@ nav ul li a:hover {
     font-size: 1.2rem;
     margin-bottom: 20px;
 }
-
+/* Responsive design for small screens */
+@media (max-width: 768px) {
+   .hero-content a {
+    padding: 5px;
+}
+}
 .cta-button {
     display: inline-block;
     background-color: #333;
