@@ -88,7 +88,7 @@ nav ul li a:hover {
 /* Responsive design for small screens */
 @media (max-width: 768px) {
    .hero-content a {
-    padding: 5px;
+    padding: 15px;
 }
 }
 .cta-button {
